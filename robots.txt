@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /ordiswap/
+Sitemap: https://ordiswap.github.io/sitemap.xml
